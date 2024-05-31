@@ -1,0 +1,46 @@
+* {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  };
+
+a{
+  text-decoration: none;
+}
+/* size */
+.btn-outline-dark.disabled {
+  color: #6c757d; 
+  text-decoration: line-through; 
+  pointer-events: none;
+}
+
+.btn-outline-dark.active {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15); 
+}
+
+.underline {
+  height: 5px;
+  width: 125px;
+  background-color: red;
+  border-radius: 20px;
+}
+
+.underline-1 {
+  height: 5px;
+  width: 250px;
+  background-color: red;
+  border-radius: 20px;
+  margin: 0 auto;
+}
+
+.bgbg-1 {
+  background-color: #e4e4e4;
+  
+}
+.bgbg-dark {
+  background-color: #0b0b0b;
+  
+}
+
+
